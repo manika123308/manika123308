@@ -20,5 +20,6 @@ My journey began in the visual world, where I’ve spent my time mastering **Can
 
 * **Creative:** Canva (Advanced Layouts, Branding, Social Graphics)
 * **Technical:** HTML, CSS, JavaScript (currently diving deep into Full Stack frameworks)
+* [![Follow on GitHub](https://img.shields.io/github/followers/manika123308?label=Follow%20Me&style=social)](https://github.com/manika123308)
 
 
