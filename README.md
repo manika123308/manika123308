@@ -1,39 +1,24 @@
- Hi, I'm Dina Baskota!
-
-**BCA Student | Graphic Designer | Full-Stack Learner**
-
-About Me
-
-* **Academic Journey**: Currently pursuing my **Bachelor of Computer Applications (BCA)** with a focus on **Computer Architecture** and **Advanced Calculus**.
-* **Design Expertise**: Experienced **Graphic Designer** proficient in creating visual content using **Canva**.
-* **Tech Transition**: Currently leveling up my skills to become a **Full-Stack Developer**.
-
-### 🛠️ Skills & Interests
-
-* **Languages**: Beginner-level coding in **C** and **C++**.
-* **Creative**: Specialized in professional **Graphic Design** and UI/UX layouts.
-* **Development**: Actively learning **Web Technologies** and building practical projects.
-
-### 🎯 Current Goals
-
-* Mastering **Full-Stack development** while maintaining a high academic standard in my BCA modules.
-* Combining my eye for design with clean, functional code.
+I’ve refined this to feel more professional and approachable—less like a technical checklist and more like a personal introduction.
 
 ---
 
-*“Building digital solutions with a pro-level aesthetic.”*
+## About Me
 
-<!--
-**manika123308/manika123308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Creative Designer and Aspiring Full Stack Developer** with a passion for building digital experiences that look as good as they perform.
 
-Here are some ideas to get you started:
+My journey began in the visual world, where I’ve spent my time mastering **Canva** to create impactful, high-quality designs. However, my curiosity for how things work under the hood led me into the world of **Full Stack Development**. I’m currently bridging the gap between visual storytelling and functional engineering, learning to turn static designs into interactive, live applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ My Current Focus
+
+* **Design:** Delivering professional-grade visual assets and brand-consistent graphics.
+* **Code:** Growing my skills in frontend and backend technologies to build end-to-end solutions.
+
+
+---
+
+ My Toolkit
+
+* **Creative:** Canva (Advanced Layouts, Branding, Social Graphics)
+* **Technical:** HTML, CSS, JavaScript (currently diving deep into Full Stack frameworks)
+
+
